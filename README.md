@@ -6,7 +6,7 @@ Pocket Park is an online marketplace for on-demand parking. Rent your unused par
 
 Created in 36 hours at *ShellHacks 2017*, a hackathon at Florida International University. See my full porfolio at (http://ryancommits.com/)
 
-## Awards
+## Hackathon Awards - Florida International University Shellhacks 2017
 
 *2nd Place Overall*
 
